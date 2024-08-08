@@ -47,6 +47,8 @@ public class WelcomeRestController {
 	//task 2
 	public void m2(){
 		String str = "task 2 related changes";
+		String errorMsg = "fetch command";
+		logger.info("Conflict code added here to check fetch command");
 		boolean change = false;
 		//logic
 	}
