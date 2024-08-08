@@ -50,4 +50,11 @@ public class WelcomeRestController {
 		boolean change = false;
 		//logic
 	}
+
+	//New changes to test fetch command
+	public void m3(){
+		int i = 10;
+		int j = 20;
+		//logic to add values
+	}
 }
