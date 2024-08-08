@@ -38,11 +38,16 @@ public class WelcomeRestController {
 		return msg;
 	}
 	
+	//task 1
+	public void m1(){
+		String str = "stash command testing";
+		//logic
+	}
+	
 	//task 2
 	public void m2(){
 		String str = "task 2 related changes";
 		boolean change = false;
 		//logic
 	}
-	
 }
