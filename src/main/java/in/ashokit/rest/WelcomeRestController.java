@@ -50,6 +50,14 @@ public class WelcomeRestController {
 		String errorMsg = "fetch command";
 		logger.info("****** Conflict code added here to check fetch command ******");
 		boolean change = false;
+		if(!change){
+			int i = 10; 
+			int j = 20;
+			int k = i + j;
+			logger.info("**** fetch command changes not added****"+ k);
+		}else{
+			logger.info("**** fetch command changes added****" + k);
+		}
 		//logic
 	}
 	
