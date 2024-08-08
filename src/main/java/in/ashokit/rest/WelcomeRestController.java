@@ -56,6 +56,7 @@ public class WelcomeRestController {
 			String str = "garad bhushan";
 			logger.info("**** fetch command changes not added****");
 		}else{
+			String name = "Bhushan";
 			logger.info("**** fetch command changes added****");
 		}
 		//logic
