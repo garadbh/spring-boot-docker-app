@@ -38,5 +38,11 @@ public class WelcomeRestController {
 		return msg;
 	}
 	
+	//task 2
+	public void m2(){
+		String str = "task 2 related changes";
+		boolean change = false;
+		//logic
+	}
 	
 }
