@@ -48,6 +48,11 @@ public class WelcomeRestController {
 	public void m2(){
 		String str = "task 2 related changes";
 		boolean change = false;
+		if(!change){
+			logger.info("**** fetch command changes not added****");
+		}else{
+			logger.info("**** fetch command changes added****");
+		}
 		//logic
 	}
 	
