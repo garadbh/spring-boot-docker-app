@@ -54,6 +54,7 @@ public class WelcomeRestController {
 			int a = 25;
 			int b = 35;
 			logger.info("*************************************");
+			int addition = a + b;
 			String str = "garad bhushan";
 			logger.info("**** fetch command changes not added****");
 		}else{
