@@ -53,7 +53,7 @@ public class WelcomeRestController {
 		if(!change){
 			int a = 25;
 			int b = 35;
-			int c = a + b;
+			String str = "garad bhushan";
 			logger.info("**** fetch command changes not added****");
 		}else{
 			logger.info("**** fetch command changes added****");
